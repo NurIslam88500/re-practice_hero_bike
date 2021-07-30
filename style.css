@@ -1,0 +1,36 @@
+header {
+    background-color: #264653;
+}
+
+.featureimg {
+    filter: grayscale(80);
+}
+
+.card-img-top {
+    width: 337px;
+    height: 256px;
+    padding: 10px;
+}
+
+.card-img-top1 {
+    width: 149px;
+    height: 149px;
+}
+
+.text-color {
+    color: #E76F51;
+}
+
+.frequentlyimg {
+    width: 431px;
+    height: 423px;
+}
+
+.footeranchor a {
+    text-decoration: none;
+    color: white;
+}
+
+.bg-footer {
+    background-color: #0B0D17;
+}
